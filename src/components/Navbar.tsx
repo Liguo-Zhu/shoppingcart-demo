@@ -43,7 +43,7 @@ export default function Navbar() {
               paddingLeft: "4px",
             }}
           >
-            <img src="/public/images/logo.png" width={"20px"}></img>
+            <img src="/images/logo.png" width={"20px"}></img>
             <Typography
               variant="inherit"
               style={{ textTransform: "uppercase", paddingLeft: "5px" }}

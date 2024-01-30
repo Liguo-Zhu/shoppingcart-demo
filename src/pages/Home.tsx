@@ -51,7 +51,7 @@ export default function Home() {
           justifyContent: "center",
         }}
       >
-        <img src="/public/images/fruits.jpg"></img>
+        <img src="/images/fruits.jpg"></img>
       </Box>
     </Box>
   );
