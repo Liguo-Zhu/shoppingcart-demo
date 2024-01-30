@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Lemon 1",
+    "price": 4.12,
+    "imgUrl": "/images/lemon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple 1",
+    "price": 4.59,
+    "imgUrl": "/images/apple.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana 1",
+    "price": 5.99,
+    "imgUrl": "/images/banana.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Lemon 2",
+    "price": 3.99,
+    "imgUrl": "/images/lemon.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Apple 2",
+    "price": 6.12,
+    "imgUrl": "/images/apple.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Banana 2",
+    "price": 5.99,
+    "imgUrl": "/images/banana.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Lemon 3",
+    "price": 2.99,
+    "imgUrl": "/images/lemon.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Apple 3",
+    "price": 3.59,
+    "imgUrl": "/images/apple.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Banana 3",
+    "price": 15.99,
+    "imgUrl": "/images/banana.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Lemon 4",
+    "price": 4.23,
+    "imgUrl": "/images/lemon.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Apple 4",
+    "price": 7.49,
+    "imgUrl": "/images/apple.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Banana 4",
+    "price": 3.99,
+    "imgUrl": "/images/banana.jpg"
+  }
+]
